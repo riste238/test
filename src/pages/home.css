@@ -1,0 +1,18 @@
+.initialBtn {
+display: flex;
+justify-content:center;
+align-items:center;
+position:absolute;
+top: 20%;
+left: 45%;
+
+}
+
+#text-container{
+    display: flex;
+justify-content:center;
+align-items:center;
+position:absolute;
+left: 30%;
+bottom: 40%;
+}

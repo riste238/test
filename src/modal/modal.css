@@ -1,0 +1,26 @@
+#modal-button {
+    width: 150px;
+    background-color: white;
+    color: black;
+    border: 1px solid white;
+    padding: 5px;
+    
+}
+#modal-button:hover {
+    background-color: cadetblue;
+    opacity: 1;
+    color: white;
+    padding:5px;
+}
+.details{
+    text-align: center;
+    font-weight: bold;
+
+}
+p {
+    font-weight: bold;
+}
+
+.colMission{
+    text-align: center;
+}
